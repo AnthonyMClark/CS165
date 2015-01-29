@@ -1,0 +1,22 @@
+This is my name scored: 10 
+Lucy Murphy scored: 8 
+Tony Adamo scored: 9 
+Ideal Player scored: 8 
+Not very good scored: 19 
+Shannon Tried scored: 20 
+pointer test scored: 9 
+Maddie scored: 13 
+Pretty Bad scored: 18 
+Name scored: 12 
+PLEASE RUN scored: 8 
+Tony scored: 12 
+Date Test scored: 8 
+Not so good scored: 19 
+Dyn Array scored: 13 
+formatting scored: 10 
+Shline scored: 21 
+Shannon Tried Again scored: 21 
+FIle Name scored: 12 
+Difference Maker scored: 19 
+tony commented scored: 16 
+Ta-dA! scored: 17 
